@@ -5,6 +5,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class Test5ApplicationTests {
+	int x=100;
+	int b=200;
 
 	@Test
 	void contextLoads() {

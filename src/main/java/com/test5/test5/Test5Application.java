@@ -13,8 +13,12 @@ public class Test5Application {
                 boolean y=true;
                 int z=50;
 		boolean z=false;
+
 		float z=0.3f;
 		char c='ch';
+
+		char c='ch';
+		
 		SpringApplication.run(Test5Application.class, args);
 	}
 
