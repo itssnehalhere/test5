@@ -14,6 +14,7 @@ public class Test5Application {
                 int z=50;
 		boolean z=false;
 		float z=0.3f;
+		char c='ch';
 		SpringApplication.run(Test5Application.class, args);
 	}
 
