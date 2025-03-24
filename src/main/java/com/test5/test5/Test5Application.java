@@ -12,6 +12,8 @@ public class Test5Application {
 		String s="natalia";
                 boolean y=true;
                 int z=50;
+		boolean z=false;
+		
 		SpringApplication.run(Test5Application.class, args);
 	}
 
