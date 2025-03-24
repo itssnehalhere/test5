@@ -10,6 +10,7 @@ public class Test5Application {
 		String name="mike";
 		int x=100;
 		String s="natalia";
+                boolean y=true;
 		SpringApplication.run(Test5Application.class, args);
 	}
 
