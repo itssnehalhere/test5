@@ -10,6 +10,8 @@ class Test5ApplicationTests {
 
 	@Test
 	void contextLoads() {
+        int x=100;
+        String name="mike"
 	}
 
 }
